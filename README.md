@@ -1,6 +1,11 @@
-# exchangeratecalculator
-## With fetch API and ExchangeRateApi || No Frameworks
+## Exchange Rate
 
-A tool, basic yet powerfull to know your exchange rates.
+Select countries to get the exchange rate for a specific amount
 
-A project made with brad traversy, in his udemy course 20 web projects with vanilla javascript
+## Project Specifications
+
+- Display UI with 2 select lists for countries and 2 inputs for amounts
+- Fetch exchange rates from API (https://api.exchangerate-api.com)
+- Display the values for both countries
+- Update values on amount change
+- Swap country rates
